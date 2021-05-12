@@ -1,5 +1,12 @@
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=helivelton&theme=react-dark)
-
+<p align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=helivelton&count_private=true&show_icons=true&theme=bear">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helivelton&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+  </a>
+</p>
 <!--
 **helivelton/helivelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
